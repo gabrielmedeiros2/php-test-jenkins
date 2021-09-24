@@ -1,1 +1,3 @@
-echo 'Hello, this is a test deploy with jenkins + php';
+<?php
+    echo 'Hello, this is a test deploy with jenkins + php';
+?>
